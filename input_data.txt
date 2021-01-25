@@ -1,0 +1,10 @@
+cardnumber,cardholdername,expdate,Scode,Amount
+12341,Adam,31/01/2021,abc,1500
+12342,Rahul,31/01/2021,ind,1600
+12343,Dravid,31/01/2021,aus,1700
+12344,Roger,31/01/2021,usa,1800
+12345,Nadal,31/01/2021,xyz,1900
+12346,Modi,31/01/2021,zxc,1100
+12347,abc,31/01/2021,vbn,1200
+12348,xyz,31/01/2021,mkl,1300
+12349,Ricky,31/01/2021,qqq,1400
